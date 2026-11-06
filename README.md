@@ -42,4 +42,4 @@
 
 
 ## 4. Lien de téléchargement de l'exécutable 
-- [Télécharger l'exécutable Windows (.zip)](https://drive.google.com/drive/u/0/my-drive)
+- [Télécharger l'exécutable Windows (.zip)](https://drive.google.com/file/d/1iTpPTOOCOZjwacUJKR7Jc640ArGd-yNI/view?usp=sharing)
