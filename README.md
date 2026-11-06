@@ -1,4 +1,13 @@
 # Boutique Diayma
+
+
+## 1. Projets de la solution
+- Un seul projet : `Diayma.csproj` (dossier P2FixAnAppDotNetCode)
+
+## 2. Version du SDK .NET
+- Framework cible du projet : netcoreapp2.0 (.NET Core 2.0)
+- SDK installé : 2.1.818 (fixé avec global.json), en plus du SDK 10.0.403
+- 
 ### Bug 1 : Le stock ne diminue pas après une commande
 - Où:page d'accueil, colonne « Stock »
 - Reproduction :ajouter un produit au panier, passer la commande et la terminer, puis revenir à l'accueil
