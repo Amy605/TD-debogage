@@ -39,3 +39,7 @@
 | **13** | `P2FixAnAppDotNetCode.Controllers` | `CartController` | `Index()` / `AddToCart(...)` | **F10** | Traite l'ajout de l'article ou l'affichage de la page de gestion du panier. |
 | **14** | `P2FixAnAppDotNetCode.Controllers` | `OrderController` | `OrderController(...)` | **F10** | Déclenché lors du clic sur le bouton de commande ("Checkout"). Injecte `ICart` et `IOrderService`. |
 | **15** | `P2FixAnAppDotNetCode.Controllers` | `OrderController` | `Index()` | **F5** | Affiche le formulaire de saisie des informations de commande. |
+
+
+## 4. Lien de téléchargement de l'exécutable 
+- [Télécharger l'exécutable Windows (.zip)](https://drive.google.com/drive/u/0/my-drive)
